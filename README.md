@@ -19,7 +19,7 @@
 [![](https://visitcount.itsvg.in/api?id=LilRatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 🏥 Hospital Management System - Java
-A Java-based desktop application designed to help hospitals manage day-to-day operations more efficiently. This project demonstrates the core functionalities of a hospital system using Java Swing for the user interface and file handling for storing data (no database integration).
+A Java-based desktop application designed to help hospitals manage day-to-day operations more efficiently. This project demonstrates the core functionalities of a hospital system using Java Swing for the user interface and file handling for storing data (with database integration).
 📌 Overview
 The Hospital Management System allows admins and staff to handle patients, doctors, appointments, and billing within a simple and organized interface. It's a standalone application, ideal for small clinics, educational purposes, or Java GUI practice projects.
 ✅ Main Features
